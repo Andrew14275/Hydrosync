@@ -5,6 +5,7 @@
  *  Purpose: Master execution loop, UI rendering, event spawning, and command
  *           integration for all 8 underlying data structures.
  *  Targets: SDG 6 & SDG 11
+ * Made by Smit and Gagan with Efforts
  * ============================================================================
  */
 
